@@ -1,6 +1,6 @@
 # T-SQL fundamental
 ## MSSQL SERVER 2019
-### This repo contains T-SQL fundamental query using ADventureWorks 2019 DB.
+### This repo contains T-SQL fundamental query using ADventureWorks 2019 DB or AdventureWorks2012.
 
 ### How to use::
 
@@ -20,7 +20,7 @@ Database Name: Adventureworks 2019
         - for SSMS use Microsoft Site https://docs.microsoft.com/en-in/sql/azure-data-studio/tutorial-sql-editor?view=sql-server-ver15.
 
 
-- Files of the T-SQL folder contains mainly fundamental sql query on the Database : Adventureworks 2019
+- Files of the T-SQL folder contains mainly fundamental sql query on the Database : Adventureworks 2019 or AdventureWorks 2012
     - To download AdventureWorks 2019 go to the site https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
     - Download OLTP version of 2019 Backup file.
     - Then follow the below written instruction to Restore the DATABASE easily
